@@ -85,7 +85,7 @@ public class Dashboard extends JFrame {
 				duration.setText("");
 			}
 		});
-
+		#MatButton
 		MatButton viewHistory = addButton("View exercise history", 20f, Color.WHITE, Theme.LIGHT_BLUE.color, 420, 0, 30);
 
 		viewHistory.addActionListener(event -> {

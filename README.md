@@ -11,28 +11,3 @@ Users have to create an account to use the application. The user’s information
 <p align="center"><img src="https://github.com/Abhijeet-Pitumbur/Fitbliss/blob/main/project/resources/screenshot-5.png"/></p>
 <p align="center"><img src="https://github.com/Abhijeet-Pitumbur/Fitbliss/blob/main/project/resources/screenshot-6.png"/></p>
 <p align="center"><img src="https://github.com/Abhijeet-Pitumbur/Fitbliss/blob/main/project/resources/screenshot-7.png"/></p>
-
-### [Download Application](https://github.com/Abhijeet-Pitumbur/Fitbliss/raw/main/Fitbliss.jar)
-
-##### [Download MySQL Database Dump](https://github.com/Abhijeet-Pitumbur/Fitbliss/raw/main/Fitbliss-Database.sql)  · GitHub
-##### [View PDF Report](https://bit.ly/abhijt-fitbliss-report)  · Google Drive
-##### [Download Repository](https://github.com/Abhijeet-Pitumbur/Fitbliss/archive/refs/heads/main.zip)  · GitHub
-
-## Application Prerequisites
-- Download the [Fitbliss](https://github.com/Abhijeet-Pitumbur/Fitbliss/raw/main/Fitbliss.jar) application as an executable JAR file.
-- Download *[Fitbliss-Database.sql](Fitbliss-Database.sql)* MySQL database dump as an SQL file.
-- Download and install a web server stack, like [XAMPP](https://www.apachefriends.org/) or [WAMP](https://www.wampserver.com/).
-- Open XAMPP or WAMP Control Panel.
-- Start Apache and MySQL.
-- Open a web browser and go to PHPMyAdmin at [http://localhost/phpmyadmin](http://localhost/phpmyadmin).
-- Create a new database named *fitbliss*.
-- Import your downloaded *[Fitbliss-Database.sql](Fitbliss-Database.sql)* file to the new database.
-- Open your downloaded *[Fitbliss.jar](Fitbliss.jar)* file.
-
-## Languages, Frameworks and Tools
-- Java 18.0
-- Swing GUI Toolkit 18.0
-- MySQL 8.0
-- IntelliJ IDEA Ultimate 2022.2
-- XAMPP 8.1
-- Java MySQL Connector 8.0

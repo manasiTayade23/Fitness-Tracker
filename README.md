@@ -36,8 +36,3 @@ Users have to create an account to use the application. The user’s information
 - IntelliJ IDEA Ultimate 2022.2
 - XAMPP 8.1
 - Java MySQL Connector 8.0
-
-## Credits
-- Abhijeet Pitumbur
-- Oudish Thacooree
-- Viman Singh Sreepaul
